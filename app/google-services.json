@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "790497704149",
+    "firebase_url": "https://com-cars24-notification-demo.firebaseio.com",
+    "project_id": "com-cars24-notification-demo",
+    "storage_bucket": "com-cars24-notification-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790497704149:android:5b03cb83a5b88656",
+        "android_client_info": {
+          "package_name": "com.cars24.notificationSample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjApvUNC7bDB964Boo9G_A0o1_teURQso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790497704149:android:7906f9f0bac61602ccca5c",
+        "android_client_info": {
+          "package_name": "com.praveen.testweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjApvUNC7bDB964Boo9G_A0o1_teURQso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790497704149:android:58d2907458956b97ccca5c",
+        "android_client_info": {
+          "package_name": "com.praveen.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjApvUNC7bDB964Boo9G_A0o1_teURQso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790497704149:android:976499452d21eea8ccca5c",
+        "android_client_info": {
+          "package_name": "com.praveen.weathertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjApvUNC7bDB964Boo9G_A0o1_teURQso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790497704149-5vorgdrl3uhanqi8fphil9d5mmn67lb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
